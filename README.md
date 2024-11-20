@@ -14,8 +14,8 @@ Computer Engineering Student, passionate about learning and contributing to inno
 
 ## 🌐 Languages
 - **Spanish**: Native
-- **English**: Advanced (C1)
-- **French**: Intermediate (B2)
+- **English**: Basic profesional competence (B2)
+- **French**: Basic profesional competence (B2)
 
 ---
 
