@@ -1,16 +1,12 @@
 <h1 align="center">Sara Castro López</h1>
 
 <p align="center">
-  <code>> CS Engineer · AI & NLP · Turning data into decisions_</code>
-</p>
-
-<p align="center">
-  📍 A Coruña / Galicia / Spain
+  <code>> AI & Full-Stack Engineer </code>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%2F%20NLP-informational?style=flat-square&color=bc8cff" />
-  <img src="https://img.shields.io/badge/Medical%20Data-informational?style=flat-square&color=58a6ff" />
+  <img src="https://img.shields.io/badge/Web%20Design-informational?style=flat-square&color=58a6ff" />
   <img src="https://img.shields.io/badge/Full--Stack-informational?style=flat-square&color=3fb950" />
   <img src="https://img.shields.io/badge/Cloud%20%7C%20Azure-informational?style=flat-square&color=ffa64d" />
 </p>
@@ -95,5 +91,4 @@ Genetic algorithms that optimize movement policies to maximize exploration, vali
 
 [![Email](https://img.shields.io/badge/saracas04@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saracas04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/sara--castro--lopez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-castro-lopez/)
-[![GitHub](https://img.shields.io/badge/Saracas--Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saracas-Code)
 [![Instagram](https://img.shields.io/badge/saracaas__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saracaas_)
