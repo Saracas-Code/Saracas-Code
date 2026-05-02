@@ -26,7 +26,7 @@ Final-year Computer Engineering student with a generalist vision — from **Full
 
 I've done research at **CiTIUS-USC** on early Alzheimer's detection using multilingual NLP (BERT, E5 embeddings, Mistral, Gemini), and I'm currently working at **FDS, a DXC Technology** on AI Engineering — building data pipelines with Azure & Databricks and combining ML with Generative AI.
 
-Beyond the code: organizer at **GDG Santiago de Compostela** and Erasmus at **Sorbonne** (GPA 15.5/20) — both shaping an adaptable, problem-solving mindset.
+Beyond the code: organizer at **GDG Santiago de Compostela** and Erasmus at **Sorbonne Université (Paris)**, both shaping an adaptable, problem-solving mindset.
 
 ---
 
