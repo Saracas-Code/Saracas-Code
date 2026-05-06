@@ -18,11 +18,7 @@
 > *How can AI transform a clinical diagnosis, improve a web app, or optimize a workflow?*
 > That's the kind of question that drives me.
 
-Final-year Computer Engineering student with a generalist vision — from **Full-Stack development** to **cloud infrastructure** — naturally evolving towards **AI and NLP**.
-
-I've done research at **CiTIUS-USC** on early Alzheimer's detection using multilingual NLP (BERT, E5 embeddings, Mistral, Gemini), and I'm currently working at **FDS, a DXC Technology** on AI Engineering — building data pipelines with Azure & Databricks and combining ML with Generative AI.
-
-+ organizer at **GDG Santiago de Compostela** and Erasmus at **Sorbonne Université (Paris)**, both shaping an adaptable, problem-solving mindset.
+Final-year Computer Engineering student with a generalist vision, naturally evolving towards **AI and NLP**.
 
 ---
 
