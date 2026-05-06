@@ -24,9 +24,9 @@ Final-year Computer Engineering student with a generalist vision, naturally evol
 
 ### // currently
 
-- 🏢 **AI Engineering Intern @ FDS, a DXC Technology** — Azure · Databricks · GenAI · Streamlit
-- 🔬 Previously: **Research @ CiTIUS-USC** — Early Alzheimer's detection with multilingual NLP
-- 🎙️ Organizing tech events at **GDG Santiago de Compostela**
+- **AI Engineering Intern @ FDS, a DXC Technology** — Azure · Databricks · GenAI 
+- Previously: **Research @ CiTIUS-USC** — Early Alzheimer's detection with multilingual NLP
+- Organizing tech events at **GDG Santiago de Compostela**
 
 ---
 
@@ -55,31 +55,6 @@ Final-year Computer Engineering student with a generalist vision, naturally evol
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### // featured projects
-
-**🧠 Early Alzheimer's Detection — CiTIUS-USC**
-Multilingual NLP pipeline (EN/ES) for HC/MCI/AD classification using TF-IDF, E5 embeddings and BERT-type architectures. Data Augmentation with local LLMs (Mistral) and cloud models (Gemini) to address data scarcity.
-
-**🌐 Community Forum Web App**
-Full-stack app with authentication, messaging, profiles, search and admin area.
-`React` · `Node.js` · `MongoDB`
-
-**🤖 Evolutionary AI — Robotic Controllers**
-Genetic algorithms that optimize movement policies to maximize exploration, validated across multiple environments.
-`Python`
-
----
-
-### // languages
-
-| Language | Level |
-|----------|-------|
-| 🇪🇸 Spanish & Galician | Native |
-| 🇫🇷 French | DALF C1 |
-| 🇬🇧 English | Cambridge B2 |
 
 ---
 
