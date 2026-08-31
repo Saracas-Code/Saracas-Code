@@ -1,7 +1,7 @@
 <h1 align="center">Sara Castro López</h1>
 
 <p align="center">
-  <code>> AI & Full-Stack Engineer </code>
+  <code>> AI Engineer | Software & Data Solutions </code>
 </p>
 
 <p align="center">
@@ -18,15 +18,14 @@
 > *How can AI transform a clinical diagnosis, improve a web app, or optimize a workflow?*
 > That's the kind of question that drives me.
 
-Final-year Computer Engineering student with a generalist vision, naturally evolving towards **AI and NLP**.
+Software Engineer specialized in bridging the gap between full-stack development and Applied AI / NLP.
 
 ---
 
 ### // currently
-
-- **AI Engineering Intern @ FDS, a DXC Technology** — Azure · Databricks · GenAI 
-- Previously: **Research @ CiTIUS-USC** — Early Alzheimer's detection with multilingual NLP
 - Organizing tech events at **GDG Santiago de Compostela**
+- Previously: **AI Engineering Intern @ FDS, a DXC Technology** — Azure · Databricks · GenAI | **Research @ CiTIUS-USC** — Early Alzheimer's detection with multilingual NLP
+
 
 ---
 
